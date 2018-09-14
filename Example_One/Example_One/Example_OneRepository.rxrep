@@ -1,0 +1,84 @@
+﻿<repository
+id="3682b9e7-9556-41a9-b560-ae1918acdf62"
+name="Example_OneRepository"
+rxversion="8.2">
+	<codegen
+	classname="Example_OneRepository"
+	namespace="Example_One">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="fb517513-597f-46f9-9003-8ae1823bf021"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,control,nativewindow"
+		capname="form"
+		id="c5000240-b28d-4461-abcd-9c8635a4e0c5"
+		isrooted="True"
+		name="RxMainFrame"
+		refpath="/form[@controlname='RxMainFrame' and @title='Ranorex Studio Demo Application' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<folder
+			addcaps="tabpage,control,nativewindow"
+			capname="tabpage"
+			id="d73b8a5e-788d-49c1-a5a9-c7960d3312db"
+			isrooted="True"
+			name="RxTabIntroduction"
+			refpath="/form[@controlname='RxMainFrame' and @title='Ranorex Studio Demo Application' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']/tabpagelist[@controlname='RxTabcontrol']/tabpage[@controlname='RxTabIntroduction']"
+			searchtimeout="30000ms"
+			usecache="False">
+				<item
+				addcaps="text,accessible"
+				capname="text"
+				id="844e60ed-d40e-4a0e-a687-1feee1e5bbc3"
+				name="EnterYourName"
+				refimgid="dd32f46b-29aa-4c55-bd8e-96f084b63130"
+				refpath="/form[@controlname='RxMainFrame' and @title~'^Ranorex\ Studio\ Demo\ Appli' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']/tabpagelist/tabpage[@controlname='RxTabIntroduction']/text[@controlname='txtUserName']/text[@accessiblename='Enter your name']"
+				searchtimeout="30000ms">
+					/form[@title~'^Ranorex\ Studio\ Demo\ Appli' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']/?/?/tabpage[@controlname='RxTabIntroduction']/?/?/text[@accessiblename='Enter your name']
+				</item>
+				<item
+				addcaps="button,control,nativewindow"
+				capname="button"
+				id="093be186-c9b5-4b42-be0e-78dc58c44037"
+				name="BtnSubmitUserName"
+				refimgid="2e1a2c38-8b1e-447d-9468-1f4601a5ed29"
+				refpath="/form[@controlname='RxMainFrame' and @title~'^Ranorex\ Studio\ Demo\ Appli' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']/tabpagelist/tabpage[@controlname='RxTabIntroduction']/button[@controlname='btnSubmitUserName']"
+				searchtimeout="30000ms">
+					/form[@title~'^Ranorex\ Studio\ Demo\ Appli' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']/?/?/tabpage[@controlname='RxTabIntroduction']/button[@controlname='btnSubmitUserName']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="a3fe2df0-f021-4343-8d7f-5b469df9bde4"
+				name="LblWelcomeMessage"
+				refimgid="80fbe0aa-0d65-4694-b43c-14cbf5250262"
+				refpath="/form[@controlname='RxMainFrame' and @title~'^Ranorex\ Studio\ Demo\ Appli' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']/tabpagelist/tabpage[@controlname='RxTabIntroduction']/text[@controlname='lblWelcomeMessage']"
+				searchtimeout="30000ms">
+					/form[@title~'^Ranorex\ Studio\ Demo\ Appli' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']/?/?/tabpage[@controlname='RxTabIntroduction']/text[@controlname='lblWelcomeMessage']
+				</item>
+				<basepath>
+					/form[@title~'^Ranorex\ Studio\ Demo\ Appli' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']/?/?/tabpage[@controlname='RxTabIntroduction']
+				</basepath>
+			</folder>
+			<basepath>
+				/form[@title~'^Ranorex\ Studio\ Demo\ Appli' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAB9SURBVDhPY0AGwcHBi4D4NxD/x4NB8r+DgoJa
+odogACj4BqQAyiUdwDQ/YBfa+oBN6CA+DNaADmAGAAlGIGbCh8Ea0AHIACD+B8RficFQbQgAFAQa
+TjwABuI3KBMCSDEgICBAeNSAUQOwGgACIEOAEt8JYaC6H0AaaAADAwC5s5VutWbaWgAAAABJRU5E
+rkJggg==
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

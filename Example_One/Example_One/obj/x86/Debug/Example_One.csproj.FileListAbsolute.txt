@@ -1,0 +1,9 @@
+C:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\bin\Debug\Example_One.rxtmg
+C:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\bin\Debug\Example_One.rxtst
+C:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\bin\Debug\Example_One.exe.config
+C:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\bin\Debug\Example_One.exe
+C:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\bin\Debug\Example_One.pdb
+C:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\obj\x86\Debug\Example_One.csprojResolveAssemblyReference.cache
+C:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\obj\x86\Debug\Example_One.exe
+C:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\obj\x86\Debug\Example_One.pdb

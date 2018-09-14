@@ -1,0 +1,12 @@
+[
+  {
+    "Enabled": "True",
+    "TestSuite": "Example_One",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "True",
+    "TestSuite": "Sample_TestSuiteOne",
+    "RunConfig": "Default"
+  }
+]

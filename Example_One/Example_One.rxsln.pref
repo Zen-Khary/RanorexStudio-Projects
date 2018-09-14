@@ -1,0 +1,12 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{2B58BDB7-97FE-40A6-9397-6EC75B264A9B}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution Example_One[Example_One[]]]&#xD;&#xA;Solution Example_One\Example_One\UserCodeModule1.cs&#xD;&#xA;Solution Example_One" />
+  <StartupProject value="{2B58BDB7-97FE-40A6-9397-6EC75B264A9B}" />
+</Properties>

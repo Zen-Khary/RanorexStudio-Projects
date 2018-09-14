@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="254670dcd5664d58"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="1"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="1"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="1"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="Khary Poppllewell"
+		rxversion="8.2.0.0"
+		host="ZENLAPTOP731"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="2732x768"
+		timestamp="9/14/2018 11:32:36 AM"
+		timestampiso="2018-09-14T15:32:36"
+		endtime="9/14/2018 11:32:49 AM"
+		timeoutfactor="1">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<activity
+			result="Success"
+			duration="12.41s"
+			durationms="12411"
+			type="test-suite"
+			rid="ed0bfc9a708b82"
+			totalerrorcount="0"
+			totalwarningcount="0"
+			totalsuccesstestcasecount="1"
+			totalfailedtestcasecount="0"
+			totalblockedtestcasecount="0"
+			childsuccesscount="1"
+			childfailedcount="0"
+			childblockedcount="0"
+			totalsuccesscount="1"
+			totalfailedcount="0"
+			totalblockedcount="0"
+			totalmaintenancemodecount="0"
+			testsuitename="Example_One"
+			headertext="Example_One"
+			runconfigname="TestRun"
+			runlabel="">
+			<params>
+			</params>
+			<activity
+				result="Success"
+				duration="12.38s"
+				durationms="12380"
+				type="test-case"
+				rid="3d2e3dcab71bd0e"
+				totalerrorcount="0"
+				totalwarningcount="0"
+				totalsuccesstestcasecount="1"
+				totalfailedtestcasecount="0"
+				totalblockedtestcasecount="0"
+				childsuccesscount="1"
+				childfailedcount="0"
+				childblockedcount="0"
+				totalsuccesscount="1"
+				totalfailedcount="0"
+				totalblockedcount="0"
+				totalmaintenancemodecount="0"
+				testcontainername="TestCase"
+				testcontainerid="62e97424-1fc1-490a-8e08-4c62f2865caf"
+				headertext="TestCase"
+				displayName="TestCase"
+				iteration="1"
+				activity-exectype="execute"
+				conditionstate="none">
+				<activity
+					result="Success"
+					duration="12.35s"
+					durationms="12350"
+					type="test-module"
+					rid="5b73f12d8c5322a"
+					totalerrorcount="0"
+					totalwarningcount="0"
+					totalsuccesstestcasecount="0"
+					totalfailedtestcasecount="0"
+					totalblockedtestcasecount="0"
+					childsuccesscount="0"
+					childfailedcount="0"
+					childblockedcount="0"
+					totalsuccesscount="0"
+					totalfailedcount="0"
+					totalblockedcount="0"
+					totalmaintenancemodecount="0"
+					modulename="Recording1"
+					displayName="Recording1"
+					moduleid="31fa9522-1945-45c0-8508-a3d0ac869a32"
+					moduletype="Recording"
+					iteration="1"
+					activity-exectype="execute"
+					testentry-activity-type="testmodule">
+					<varbindings>
+					</varbindings>
+					<item
+						timeRelativeToTestSuiteStartTime="00:00.839"
+						timeRelativeToTestModuleStartTime="00:00.031"
+						timeWallClock="11:32:37"
+						time="00:00.839"
+						level="Info"
+						category="Application">
+						<message>
+							Run application 'C:\Users\Khary Poppllewell\Documents\JCI - Ranorex\RxDemoApp\RxDemoApp.exe' with arguments '' in normal mode.
+						</message>
+						<metainfo
+							itemindex="0"
+							codefile="c:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\Recording1.cs"
+							codeline="82"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:01.588"
+						timeRelativeToTestModuleStartTime="00:00.780"
+						timeWallClock="11:32:37"
+						time="00:01.588"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.RxTabIntroduction.EnterYourName' at 117;7.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title~'^Ranorex\ Studio\ Demo\ Appli' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']/?/?/tabpage[@controlname='RxTabIntroduction']/?/?/text[@accessiblename='Enter your name']"
+							itempath="?/?/text[@accessiblename='Enter your name']"
+							fullname="Example_OneRepository.RxMainFrame.RxTabIntroduction.EnterYourName"
+							id="844e60edd40e4a0ea6871feee1e5bbc3"
+							timeout="90000"
+							codefile="c:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\Recording1.cs"
+							codeline="86"
+							itemindex="1"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:06.539"
+						timeRelativeToTestModuleStartTime="00:05.731"
+						timeWallClock="11:32:42"
+						time="00:06.539"
+						level="Info"
+						category="Keyboard">
+						<message>
+							Key sequence 'Khary' with focus on 'RxMainFrame.RxTabIntroduction.EnterYourName'.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title~'^Ranorex\ Studio\ Demo\ Appli' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']/?/?/tabpage[@controlname='RxTabIntroduction']/?/?/text[@accessiblename='Enter your name']"
+							itempath="?/?/text[@accessiblename='Enter your name']"
+							fullname="Example_OneRepository.RxMainFrame.RxTabIntroduction.EnterYourName"
+							id="844e60edd40e4a0ea6871feee1e5bbc3"
+							timeout="90000"
+							codefile="c:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\Recording1.cs"
+							codeline="90"
+							itemindex="2"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:08.020"
+						timeRelativeToTestModuleStartTime="00:07.212"
+						timeWallClock="11:32:44"
+						time="00:08.020"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Down item 'RxMainFrame.RxTabIntroduction.EnterYourName' at 110;15.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title~'^Ranorex\ Studio\ Demo\ Appli' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']/?/?/tabpage[@controlname='RxTabIntroduction']/?/?/text[@accessiblename='Enter your name']"
+							itempath="?/?/text[@accessiblename='Enter your name']"
+							fullname="Example_OneRepository.RxMainFrame.RxTabIntroduction.EnterYourName"
+							id="844e60edd40e4a0ea6871feee1e5bbc3"
+							timeout="90000"
+							codefile="c:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\Recording1.cs"
+							codeline="94"
+							itemindex="3"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:09.361"
+						timeRelativeToTestModuleStartTime="00:08.553"
+						timeWallClock="11:32:45"
+						time="00:09.361"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Up item 'RxMainFrame.RxTabIntroduction.EnterYourName' at 98;16.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title~'^Ranorex\ Studio\ Demo\ Appli' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']/?/?/tabpage[@controlname='RxTabIntroduction']/?/?/text[@accessiblename='Enter your name']"
+							itempath="?/?/text[@accessiblename='Enter your name']"
+							fullname="Example_OneRepository.RxMainFrame.RxTabIntroduction.EnterYourName"
+							id="844e60edd40e4a0ea6871feee1e5bbc3"
+							timeout="90000"
+							codefile="c:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\Recording1.cs"
+							codeline="99"
+							itemindex="4"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:10.712"
+						timeRelativeToTestModuleStartTime="00:09.904"
+						timeWallClock="11:32:46"
+						time="00:10.712"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.RxTabIntroduction.BtnSubmitUserName' at 29;13.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title~'^Ranorex\ Studio\ Demo\ Appli' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']/?/?/tabpage[@controlname='RxTabIntroduction']/button[@controlname='btnSubmitUserName']"
+							itempath="button[@controlname='btnSubmitUserName']"
+							fullname="Example_OneRepository.RxMainFrame.RxTabIntroduction.BtnSubmitUserName"
+							id="093be186c9b54b42be0e78dc58c44037"
+							timeout="90000"
+							codefile="c:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\Recording1.cs"
+							codeline="104"
+							itemindex="5"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:11.954"
+						timeRelativeToTestModuleStartTime="00:11.146"
+						timeWallClock="11:32:48"
+						time="00:11.954"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.RxTabIntroduction.LblWelcomeMessage' at 86;8.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@title~'^Ranorex\ Studio\ Demo\ Appli' and @processname='RxDemoApp' and @controltypename='RxMainFrame' and @instance='0']/?/?/tabpage[@controlname='RxTabIntroduction']/text[@controlname='lblWelcomeMessage']"
+							itempath="text[@controlname='lblWelcomeMessage']"
+							fullname="Example_OneRepository.RxMainFrame.RxTabIntroduction.LblWelcomeMessage"
+							id="a3fe2df0f02143438d7f5b469df9bde4"
+							timeout="90000"
+							codefile="c:\Users\Khary Poppllewell\Documents\Ranorex\RanorexStudio Projects\Example_One\Example_One\Recording1.cs"
+							codeline="108"
+							itemindex="6"
+							loglvl="Info">
+						</metainfo>
+					</item>
+				</activity>
+			</activity>
+		</activity>
+	</activity>
+</report>
